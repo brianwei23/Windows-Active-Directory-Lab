@@ -20,6 +20,7 @@ This lab was conducted as a personal project, and demonstrates IT and help desk 
 An important part of this lab setup is to setup a communication channel so that the server and client VMs can communicate with each other.
 
 As shown below, for this lab, I set both VMs in VirtualBox settings to **Internal Network** and for the name, I chose **homelab**.
+
 ![network-setup](images/network-setup.png)
 
 In the Windows Server VM's Control Panel, these are my IPv4 properties.

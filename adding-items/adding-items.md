@@ -2,6 +2,7 @@
 **Video Link**: https://youtu.be/cH_FfaigKJo?si=V7pBr7V1b3hCPlG_&t=293
 
 In the server VM, go to Server Manager and click on **Tools**, and then click on **Active Directory Users and Computers**. You will be in a page like this: 
+
 ![ad](images/ad.png)  
 
 In order to create an organizational unit, right-click **homelab.local** or what you used to name it. Then select **New**, then select **Organizational Unit**. Type in the name of the organizational unit you want to create.
